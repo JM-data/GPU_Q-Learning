@@ -5,4 +5,4 @@ This repository is greatly inspired by Google DeepMind by Mnih et Al : "Asynchro
 
 http://arxiv.org/abs/1602.01783
 
-The Jupyter Notebook ELTDM_Code&Report contains a clear report on the project's problem and also all the code commented. If however you just want the code, you will find it in the DQN_Theano and DQN_Keras Jupyter Notebooks.
+The Jupyter Notebook *ELTDM_Code&Report.ipynb* contains a clear report on the project's problem and also all the code commented. If however you just want the code, you will find it in the *DQN_Theano.ipynb* and *DQN_Keras.ipynb* Jupyter Notebooks.
